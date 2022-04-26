@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();
+
 // program to check leap year
 function checkLeapYear(year) {
 
